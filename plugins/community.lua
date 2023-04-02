@@ -12,5 +12,5 @@ return {
   -- colorscheme
   { import = "astrocommunity.colorscheme.tokyonight" },
   -- bars and lines
-  { import = "astrocommunity.bars-and-lines.lualine-nvim" },
+  { import = "astrocommunity.bars-and-lines.scope-nvim" },
 }
