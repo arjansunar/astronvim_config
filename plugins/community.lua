@@ -10,7 +10,7 @@ return {
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.tailwindcss" },
   -- colorscheme
-  { import = "astrocommunity.colorscheme.tokyonight" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
   -- bars and lines
   { import = "astrocommunity.bars-and-lines.scope-nvim" },
 }
