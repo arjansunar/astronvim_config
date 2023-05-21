@@ -21,8 +21,6 @@ return {
     -- this is useful for naming menus
     ["<leader>b"] = { name = "Buffers" },
     -- cycle buffer
-    ["L"] = { "<cmd>bnext<cr>" },
-    ["H"] = { "<cmd>bprev<cr>" },
     -- quick save
     -- ["<C-s>"] = { ":w!<cr>", desc = "Save File" },  -- change description but the same command
   },

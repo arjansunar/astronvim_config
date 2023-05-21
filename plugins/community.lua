@@ -12,6 +12,4 @@ return {
   { import = "astrocommunity.pack.rust" },
   -- colorscheme
   { import = "astrocommunity.colorscheme.tokyonight" },
-  -- bars and lines
-  { import = "astrocommunity.bars-and-lines.scope-nvim" },
 }
