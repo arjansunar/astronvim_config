@@ -5,11 +5,6 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   -- language packs
-  { import = "astrocommunity.pack.typescript" },
-  { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.pack.yaml" },
-  { import = "astrocommunity.pack.tailwindcss" },
-  { import = "astrocommunity.pack.rust" },
   -- colorscheme
   { import = "astrocommunity.colorscheme.tokyonight" },
 }
