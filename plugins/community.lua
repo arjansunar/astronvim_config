@@ -7,4 +7,8 @@ return {
   -- language packs
   -- colorscheme
   { import = "astrocommunity.colorscheme.tokyonight" },
+
+  -- motions
+  { import = "astrocommunity.motion.harpoon" },
+  { import = "astrocommunity.motion.leap-nvim" },
 }
