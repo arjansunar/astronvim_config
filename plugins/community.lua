@@ -21,4 +21,8 @@ return {
 
   -- git
   { import = "astrocommunity.git.octo-nvim" },
+  { import = "astrocommunity.git.openingh-nvim" },
+
+  -- lang packs
+  { import = "astrocommunity.pack.rust" },
 }
